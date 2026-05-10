@@ -17,7 +17,7 @@ Prosta i interaktywna aplikacja konsolowa napisana w języku Python, która pozw
 
 1. **Sklonuj repozytorium na swój komputer:**
    ```bash
-  git clone [https://github.com/maaniek697/AplikacjaPogodowa.git](https://github.com/maaniek697/AplikacjaPogodowa.git)
+   git clone https://github.com/maaniek697/AplikacjaPogodowa.git
    
 Przejdź do folderu z projektem i zainstaluj wymagane biblioteki:
 
